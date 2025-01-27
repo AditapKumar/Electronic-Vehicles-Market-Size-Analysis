@@ -22,6 +22,11 @@ This project analyzes the growth of the Electric Vehicle (EV) market. It provide
 - 2022: 27,708 EVs
 - 2023: 57,519 EVs
 
+# Forecasted Insights
+
+![Current va Expected](https://github.com/user-attachments/assets/b949f2e2-01e0-48f8-b606-69649c0986ed)
+
+
 ## How to Use
 
 1. Clone the repository:
